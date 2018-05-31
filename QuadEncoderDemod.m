@@ -1,6 +1,6 @@
 % Jacqueline Decker
 % 03/17/2016
-%
+% Mobile Robotics, ECE 4226
 % Purpose: To simulate the movement of a robot that has a ball wheel with
 %          two shaft encoders in the x and y directions. The simulation
 %          takes into consideration the effects of slow sampling speed on
