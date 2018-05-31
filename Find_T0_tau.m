@@ -1,6 +1,6 @@
 %-------------------------------------------------------------------
 %Created: 09/05/2014 by Elizabeth Brennan & Jacqueline Decker (All Rights Reserved)
-%
+%Linear Systems Lab, ECE 3151
 %Revision History:  None
 %
 %Purpose: To calculate the fundamental period and the pulse width of a
