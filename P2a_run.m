@@ -1,6 +1,7 @@
 % P2a_run.m
 % Jacqueline Decker
 % 03/17/2016
+% Mobile Robotics, ECE 4226
 %
 % Purpose: This script utilizes the function QuadEncoderDemod, which takes
 %          signal vectors for single dimensions and outputs the
